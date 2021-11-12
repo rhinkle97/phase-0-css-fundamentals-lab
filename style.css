@@ -3,3 +3,82 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  font-size: 20px;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.topnavl1 {
+  text-align: center;
+  display: inline-block;
+  background-color: gray;
+}
+.topnavl2 {
+  text-align: center;
+  display: inline-block;
+  background-color: gray;
+}
+.topnavc1 {
+  text-align: center;
+  display: inline-block;
+  background-color: gray;
+}
+.topnavc2 {
+  text-align: center;
+  display: inline-block;
+  background-color: gray;
+}
+.topnavr2 {
+  text-align: center;
+  display: inline-block;
+  background-color: gray;
+}
+.topnavr1 {
+  text-align: center;
+  display: inline-block;
+  background-color: gray;
+}
+.cap {
+  font-size: 14px;
+  text-align: center;
+}
+.p1 {
+  font-size: 14px;
+  width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer {
+  text-align: center;
+  background-color: red;
+  }
+.div1 {
+  float: left;
+  width: 25%;
+  background-color: red;
+}
+.div2 {
+  float: left;
+  width: 25%;
+  background-color: red;
+}
+.div3 {
+  float: left;
+  width: 25%;
+  background-color: red;
+}
+.div4 {
+  float: left;
+  width: 25%;
+  background-color: red;
+}
